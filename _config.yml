@@ -1,16 +1,16 @@
-typography_spectrum: 0.030097646405920386
+typography_spectrum: 0.890686676139012
 color:
-  brandStrength: 0.7855629967525601
-  lightness: 0.5284798995126039
-  saturation: 0.5825171780306846
-  rhythmicContrast: 0.6974316113628447
+  brandStrength: 0.13217441993765533
+  lightness: 0.29955144692212343
+  saturation: 0.8379170803818852
+  rhythmicContrast: 0.5254873209632933
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-layout_spectrum: 0.9336652478668839
+layout_spectrum: 0.2288875028025359
 name: Journeys
 title: Earth
 description: Natural Inspiration
