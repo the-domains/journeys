@@ -4,8 +4,22 @@
         <description><![CDATA[Earth]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 00:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 00:10:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Rose of a Rose]]></title>
+            <description><![CDATA[<article><h1>A Rose of a Rose</h1><p>You can find inspiration all around you! I found this while waiting for a friend at an office condominium complex. Chula Vista, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4873cd3a-a759-4bfd-914c-ef4319839a32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/a-rose-of-a-rose/index.html</link>
+            <guid isPermaLink="false">ac1650d0-2450-4398-b934-b4d5b1dd2966</guid>
+            <pubDate>Mon, 15 Aug 2016 00:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[December Sunset in Baja]]></title>
+            <description><![CDATA[<article><h1>December Sunset in Baja</h1><p>Took the camera to shoot an event… and got a bonus! San Antonio del Mar, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8642d5cc-00af-4a5a-a03a-695600e77ef9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/december-sunset-in-baja/index.html</link>
+            <guid isPermaLink="false">3fb15ed6-7737-4684-8a07-9a6f3585fc62</guid>
+            <pubDate>Mon, 15 Aug 2016 00:10:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunset at Baja Arches]]></title>
             <description><![CDATA[<article><h1>Sunset at Baja Arches</h1><p>Off the beaten path… a place known only to the locals! Rosarito Beach, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a357f5-5acd-4c73-ac79-99edb0c67453.jpg"></article>]]></description>
@@ -21,24 +35,10 @@
             <pubDate>Mon, 15 Aug 2016 00:08:42 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A Rose of a Rose]]></title>
-            <description><![CDATA[<article><h1>A Rose of a Rose</h1><p>You can find inspiration all around you! I found this while waiting for a friend at a Chula Vista office condominium complex.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4873cd3a-a759-4bfd-914c-ef4319839a32.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/a-rose-of-a-rose/index.html</link>
-            <guid isPermaLink="false">ac1650d0-2450-4398-b934-b4d5b1dd2966</guid>
-            <pubDate>Mon, 15 Aug 2016 00:07:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Terlingua Sunset]]></title>
             <description><![CDATA[<article><h1>Terlingua Sunset</h1><p>Terlingua, Texas, 2010. Visit with Alex & Marti Whitmore for the Terlingua Music Bash.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/851ef94f-63f3-42ea-bc20-0c1b4257cd47.jpg"></article>]]></description>
             <link>https://thegrid.ai/journeys/terlingua-sunset/index.html</link>
             <guid isPermaLink="false">62169ee0-51ea-4f95-873d-15904a0cc1ce</guid>
-            <pubDate>Sun, 14 Aug 2016 22:43:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[December Sunset in Baja]]></title>
-            <description><![CDATA[<article><h1>December Sunset in Baja</h1><p>Took the camera to shoot an event… and got a bonus!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8642d5cc-00af-4a5a-a03a-695600e77ef9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/december-sunset-in-baja/index.html</link>
-            <guid isPermaLink="false">3fb15ed6-7737-4684-8a07-9a6f3585fc62</guid>
             <pubDate>Sun, 14 Aug 2016 22:43:59 GMT</pubDate>
         </item>
     </channel>
