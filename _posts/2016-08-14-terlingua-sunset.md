@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-14T22:43:59.453Z'
+datePublished: '2016-08-15T00:13:28.230Z'
+sourcePath: _posts/2016-08-14-terlingua-sunset.md
 author: []
 via: {}
-dateModified: '2016-08-14T21:42:27.903Z'
+dateModified: '2016-08-15T00:13:27.625Z'
 title: Terlingua Sunset
 publisher: {}
 description: >-
-  Terlingua, Texas, 2010. Visit with Alex & Marti Whitmore for the Terlingua
-  Music Bash.
-sourcePath: _posts/2016-08-14-terlingua-sunset.md
+  View from the fire pit taken on a visit with Alex & Marti Whitmore for the
+  Terlingua Music Bash. Terlingua, TX
 starred: false
 inFeed: true
 hasPage: true
@@ -20,4 +20,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/851ef94f-63f3-42ea-bc20-0c1b4257cd47.jpg)
 
-Terlingua, Texas, 2010\. Visit with Alex & Marti Whitmore for the Terlingua Music Bash.
+View from the fire pit taken on a visit with Alex & Marti Whitmore for the Terlingua Music Bash. Terlingua, TX
