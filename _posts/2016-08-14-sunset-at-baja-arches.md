@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-08-14T23:40:25.543Z'
+datePublished: '2016-08-15T00:09:27.907Z'
+sourcePath: _posts/2016-08-14-sunset-at-baja-arches.md
 author: []
 via: {}
-dateModified: '2016-08-14T23:40:13.092Z'
+dateModified: '2016-08-15T00:09:26.427Z'
 title: Sunset at Baja Arches
 publisher: {}
-description: Off the beaten path… a place known only to the locals!
+description: >-
+  Off the beaten path… a place known only to the locals! Rosarito Beach, Baja
+  California, Mexico
 starred: false
-sourcePath: _posts/2016-08-14-sunset-at-baja-arches.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,4 +20,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a357f5-5acd-4c73-ac79-99edb0c67453.jpg)
 
-Off the beaten path... a place known only to the locals!
+Off the beaten path... a place known only to the locals! Rosarito Beach, Baja California, Mexico
