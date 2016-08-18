@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 21:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 23:06:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Shoeshine]]></title>
+            <description><![CDATA[<article><h1>The Shoeshine</h1><p>Somewhere between Cienfueges and Trinidad I found this man doing honest work. Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15925da-8fd2-40e4-a03d-93e7ab8fb106.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/the-shoeshine/index.html</link>
+            <guid isPermaLink="false">66605c2d-9439-45d3-bbce-fab3d797c46f</guid>
+            <pubDate>Thu, 18 Aug 2016 23:06:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Magotes]]></title>
             <description><![CDATA[<article><h1>Magotes</h1><p>Magotes in Viñales Valley. Viñales, Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee08f7f8-6d29-4f24-b8ad-ee7fe21cd590.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/a-rose-of-a-rose/index.html</link>
             <guid isPermaLink="false">ac1650d0-2450-4398-b934-b4d5b1dd2966</guid>
             <pubDate>Mon, 15 Aug 2016 00:10:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[December Sunset in Baja]]></title>
-            <description><![CDATA[<article><h1>December Sunset in Baja</h1><p>Took the camera to shoot an event… and got a bonus! San Antonio del Mar, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8642d5cc-00af-4a5a-a03a-695600e77ef9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/december-sunset-in-baja/index.html</link>
-            <guid isPermaLink="false">3fb15ed6-7737-4684-8a07-9a6f3585fc62</guid>
-            <pubDate>Mon, 15 Aug 2016 00:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
