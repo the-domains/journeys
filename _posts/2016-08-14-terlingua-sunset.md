@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-15T00:13:28.230Z'
+datePublished: '2016-08-18T19:07:51.442Z'
 sourcePath: _posts/2016-08-14-terlingua-sunset.md
-author: []
+author:
+  - {}
 via: {}
-dateModified: '2016-08-15T00:13:27.625Z'
+dateModified: '2016-08-18T19:07:49.909Z'
 title: Terlingua Sunset
 publisher: {}
 description: >-
