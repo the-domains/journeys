@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-15T00:10:47.011Z'
+datePublished: '2016-08-18T19:08:21.902Z'
 sourcePath: _posts/2016-08-14-a-rose-of-a-rose.md
 author: []
 via: {}
-dateModified: '2016-08-15T00:10:46.410Z'
+dateModified: '2016-08-18T19:08:21.799Z'
 title: A Rose of a Rose
 publisher: {}
 description: >-
