@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-18T20:20:33.263Z'
+datePublished: '2016-08-20T00:12:03.545Z'
+sourcePath: _posts/2016-08-18-el-nino-sunset.md
 author: []
 via: {}
-dateModified: '2016-08-18T20:20:15.486Z'
+dateModified: '2016-08-20T00:12:03.090Z'
 title: El Niño Sunset
 publisher: {}
 description: >-
   Crazy wind, crazy waves and an amazing sky!  Playas de San Antonio del Mar,
   BC, Mexico
 starred: false
-sourcePath: _posts/2016-08-18-el-nino-sunset.md
 inFeed: true
 hasPage: true
 inNav: false
