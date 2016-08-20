@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:18:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Fisherman]]></title>
+            <description><![CDATA[<article><h1>The Fisherman</h1><p>A walk along the Malecón. The fisherman fishing from the wall. He told me his name name was Jose. Havana, Cuba</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0cff15c3f462f5d9ba2c9854dfc930ab/croprotate.jpg?cropheight=3535&cropwidth=2365&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9fb4709c-86dd-4c13-90f4-62982dbea065.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/journeys/the-fisherman/index.html</link>
+            <guid isPermaLink="false">1a7e046b-fa4e-4307-b800-a8c3946ebefa</guid>
+            <pubDate>Sat, 20 Aug 2016 00:17:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El Niño Sunset]]></title>
             <description><![CDATA[<article><h1>El Niño Sunset</h1><p>Crazy wind, crazy waves and an amazing sky! Playas de San Antonio del Mar, BC, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e76c578-b2be-4155-bbc4-cfcd5cafa7d8.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/journeys/stacking-chayote/index.html</link>
             <guid isPermaLink="false">645cd544-f5d9-499c-bfac-db1e641cb7e4</guid>
             <pubDate>Sat, 20 Aug 2016 00:03:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Fisherman]]></title>
-            <description><![CDATA[<article><h1>The Fisherman</h1><p>A walk along the Malecón. The fisherman fishing from the wall. He told me his name name was Jose. Havana, Cuba</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0cff15c3f462f5d9ba2c9854dfc930ab/croprotate.jpg?cropheight=3535&cropwidth=2365&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9fb4709c-86dd-4c13-90f4-62982dbea065.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/journeys/the-fisherman/index.html</link>
-            <guid isPermaLink="false">1a7e046b-fa4e-4307-b800-a8c3946ebefa</guid>
-            <pubDate>Fri, 19 Aug 2016 21:56:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[King of the Treasure]]></title>
