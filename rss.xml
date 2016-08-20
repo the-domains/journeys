@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:19:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rugged Coast]]></title>
+            <description><![CDATA[<article><h1>Rugged Coast</h1><p>Rocky beach below the Malecón. Havana, Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb05b145-a540-45ac-92f9-1183b5bb5578.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/13b3019d-465d-458e-9e50-a6ec03e4ff7d/index.html</link>
+            <guid isPermaLink="false">13b3019d-465d-458e-9e50-a6ec03e4ff7d</guid>
+            <pubDate>Sat, 20 Aug 2016 00:18:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[King of the Treasure]]></title>
             <description><![CDATA[<article><h1>King of the Treasure</h1><p>Like Smaug! Playas del San Antonio del Mar, BC, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54631f95-5b90-4b89-8bca-825bdaa90273.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/evening-meal/index.html</link>
             <guid isPermaLink="false">fe5195c2-5d66-4c10-bb0f-461d5f4c43fd</guid>
             <pubDate>Sat, 20 Aug 2016 00:04:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stacking Chayote]]></title>
-            <description><![CDATA[<article><h1>Stacking Chayote</h1><p>At Mercado Hidalgo a young man stacks chayote. Tijuana, BC, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb4273ba-f3db-49e6-8cca-701c1c3ec150.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/stacking-chayote/index.html</link>
-            <guid isPermaLink="false">645cd544-f5d9-499c-bfac-db1e641cb7e4</guid>
-            <pubDate>Sat, 20 Aug 2016 00:03:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
