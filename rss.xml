@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:22:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[December Sunset in Baja]]></title>
+            <description><![CDATA[<article><h1>December Sunset in Baja</h1><p>Took the camera to shoot an event… and got a bonus! San Antonio del Mar, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8642d5cc-00af-4a5a-a03a-695600e77ef9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/december-sunset-in-baja/index.html</link>
+            <guid isPermaLink="false">3fb15ed6-7737-4684-8a07-9a6f3585fc62</guid>
+            <pubDate>Sat, 20 Aug 2016 00:22:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sunset at Baja Arches]]></title>
             <description><![CDATA[<article><h1>Sunset at Baja Arches</h1><p>Off the beaten path… a place known only to the locals! Rosarito Beach, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a357f5-5acd-4c73-ac79-99edb0c67453.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/the-shoeshine/index.html</link>
             <guid isPermaLink="false">66605c2d-9439-45d3-bbce-fab3d797c46f</guid>
             <pubDate>Sat, 20 Aug 2016 00:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abandoned in Aspens]]></title>
-            <description><![CDATA[<article><h1>Abandoned in Aspens</h1><p>Abandoned structure left to decay among the Aspens. Flagstaff, AZ</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cde1a7d7-baf7-43c6-8d5a-41c149c904ae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/abandoned-in-aspens/index.html</link>
-            <guid isPermaLink="false">04e4f67c-6339-4912-8b7e-e9b4d340c0fb</guid>
-            <pubDate>Sat, 20 Aug 2016 00:06:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
