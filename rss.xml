@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:04:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Rose of a Rose]]></title>
+            <description><![CDATA[<article><h1>A Rose of a Rose</h1><p>You can find inspiration all around you! I found this while waiting for a friend at an office condominium complex. Chula Vista, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4873cd3a-a759-4bfd-914c-ef4319839a32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/a-rose-of-a-rose/index.html</link>
+            <guid isPermaLink="false">ac1650d0-2450-4398-b934-b4d5b1dd2966</guid>
+            <pubDate>Sat, 20 Aug 2016 00:04:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Evening Meal]]></title>
             <description><![CDATA[<article><h1>Evening Meal</h1><p>A hummingbird visits our feeder. San Antonio del Mar, BC, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb12224-5851-4495-8656-e520c8f1f195.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/terlingua-sunset/index.html</link>
             <guid isPermaLink="false">62169ee0-51ea-4f95-873d-15904a0cc1ce</guid>
             <pubDate>Thu, 18 Aug 2016 19:07:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rugged Coast]]></title>
-            <description><![CDATA[<article><h1>Rugged Coast</h1><p>Rocky beach below the Malecón. Havana, Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb05b145-a540-45ac-92f9-1183b5bb5578.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/13b3019d-465d-458e-9e50-a6ec03e4ff7d/index.html</link>
-            <guid isPermaLink="false">13b3019d-465d-458e-9e50-a6ec03e4ff7d</guid>
-            <pubDate>Mon, 15 Aug 2016 00:31:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
