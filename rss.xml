@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 09:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 17:06:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Early Morning, Southwest Texas]]></title>
+            <description><![CDATA[<article><h1>Early Morning, Southwest Texas</h1><p>Ridge between Midland and Terlingua as morning sun rises. SW Texas</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e7c2b6c-fd5c-48bb-9aa2-8a8c360e5eac.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/early-morning-southwest-texas/index.html</link>
+            <guid isPermaLink="false">fa816eda-a2dc-4262-a71b-55dc961c7252</guid>
+            <pubDate>Sat, 20 Aug 2016 17:06:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shoeshine]]></title>
             <description><![CDATA[<article><h1>The Shoeshine</h1><p>Somewhere between Cienfueges and Trinidad I found this man doing honest work. Sancti Spiritus, Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15925da-8fd2-40e4-a03d-93e7ab8fb106.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/december-sunset-in-baja/index.html</link>
             <guid isPermaLink="false">3fb15ed6-7737-4684-8a07-9a6f3585fc62</guid>
             <pubDate>Sat, 20 Aug 2016 00:22:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunset at Baja Arches]]></title>
-            <description><![CDATA[<article><h1>Sunset at Baja Arches</h1><p>Off the beaten path… a place known only to the locals! Rosarito Beach, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a357f5-5acd-4c73-ac79-99edb0c67453.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/sunset-at-baja-arches/index.html</link>
-            <guid isPermaLink="false">a7c18d18-70f5-4e1a-822c-4df51fa0a36f</guid>
-            <pubDate>Sat, 20 Aug 2016 00:21:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
