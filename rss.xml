@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:22:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Terlingua Sunset]]></title>
+            <description><![CDATA[<article><h1>Terlingua Sunset</h1><p>View from the fire pit taken on a visit with Alex & Marti Whitmore for the Terlingua Music Bash. Terlingua, TX</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/851ef94f-63f3-42ea-bc20-0c1b4257cd47.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/terlingua-sunset/index.html</link>
+            <guid isPermaLink="false">62169ee0-51ea-4f95-873d-15904a0cc1ce</guid>
+            <pubDate>Sat, 20 Aug 2016 00:22:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[December Sunset in Baja]]></title>
             <description><![CDATA[<article><h1>December Sunset in Baja</h1><p>Took the camera to shoot an event… and got a bonus! San Antonio del Mar, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8642d5cc-00af-4a5a-a03a-695600e77ef9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/magotes/index.html</link>
             <guid isPermaLink="false">cecf2df7-6d26-4a6c-a555-da9ac9a4350a</guid>
             <pubDate>Sat, 20 Aug 2016 00:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Shoeshine]]></title>
-            <description><![CDATA[<article><h1>The Shoeshine</h1><p>Somewhere between Cienfueges and Trinidad I found this man doing honest work. Cuba</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e15925da-8fd2-40e4-a03d-93e7ab8fb106.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/the-shoeshine/index.html</link>
-            <guid isPermaLink="false">66605c2d-9439-45d3-bbce-fab3d797c46f</guid>
-            <pubDate>Sat, 20 Aug 2016 00:10:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
