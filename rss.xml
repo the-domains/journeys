@@ -4,8 +4,15 @@
         <description><![CDATA[Earth, Sea, Humanity]]></description>
         <link>https://thegrid.ai/journeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 00:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 00:21:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/journeys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sunset at Baja Arches]]></title>
+            <description><![CDATA[<article><h1>Sunset at Baja Arches</h1><p>Off the beaten path… a place known only to the locals! Rosarito Beach, Baja California, Mexico</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64a357f5-5acd-4c73-ac79-99edb0c67453.jpg"></article>]]></description>
+            <link>https://thegrid.ai/journeys/sunset-at-baja-arches/index.html</link>
+            <guid isPermaLink="false">a7c18d18-70f5-4e1a-822c-4df51fa0a36f</guid>
+            <pubDate>Sat, 20 Aug 2016 00:21:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Last Bit of Sunlight]]></title>
             <description><![CDATA[<article><h1>Last Bit of Sunlight</h1><p>Where the Russian River meets the Pacific Ocean. Jenner, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39569b9d-40e4-45b2-bdab-a7166e33d166.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/journeys/abandoned-in-aspens/index.html</link>
             <guid isPermaLink="false">04e4f67c-6339-4912-8b7e-e9b4d340c0fb</guid>
             <pubDate>Sat, 20 Aug 2016 00:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Rose of a Rose]]></title>
-            <description><![CDATA[<article><h1>A Rose of a Rose</h1><p>You can find inspiration all around you! I found this while waiting for a friend at an office condominium complex. Chula Vista, CA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4873cd3a-a759-4bfd-914c-ef4319839a32.jpg"></article>]]></description>
-            <link>https://thegrid.ai/journeys/a-rose-of-a-rose/index.html</link>
-            <guid isPermaLink="false">ac1650d0-2450-4398-b934-b4d5b1dd2966</guid>
-            <pubDate>Sat, 20 Aug 2016 00:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
