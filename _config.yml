@@ -1,16 +1,16 @@
-layout_spectrum: 0.5446751890704036
-typography_spectrum: 0.3967966071795672
+layout_spectrum: 0.8124808997381479
+typography_spectrum: 0.06324836937710643
 color:
-  brandStrength: 0.26545279775746167
-  lightness: 0.02652895380742848
-  saturation: 0.2245922063011676
-  rhythmicContrast: 0.16409315774217248
+  brandStrength: 0.5792089281603694
+  lightness: 0.14438764401711524
+  saturation: 0.30663131712935865
+  rhythmicContrast: 0.4950747601687908
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 name: Journeys
 title: 'Earth, Sea, Humanity'
 description: A World of Inspiration
