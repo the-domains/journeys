@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-19T21:23:33.898Z'
+datePublished: '2016-08-20T00:03:29.832Z'
+sourcePath: _posts/2016-08-19-stacking-chayote.md
 author: []
 via: {}
-dateModified: '2016-08-19T21:23:28.439Z'
+dateModified: '2016-08-20T00:03:29.348Z'
 title: Stacking Chayote
 publisher: {}
 description: 'At Mercado Hidalgo a young man stacks chayote. Tijuana, BC, Mexico'
 starred: false
-sourcePath: _posts/2016-08-19-stacking-chayote.md
 inFeed: true
 hasPage: true
 inNav: false
