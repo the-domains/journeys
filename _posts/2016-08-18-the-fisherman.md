@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T20:49:36.748Z'
+datePublished: '2016-08-19T21:56:50.341Z'
 sourcePath: _posts/2016-08-18-the-fisherman.md
 author: []
 via: {}
-dateModified: '2016-08-18T20:49:35.391Z'
+dateModified: '2016-08-19T21:56:49.802Z'
 title: The Fisherman
 publisher: {}
 description: >-
