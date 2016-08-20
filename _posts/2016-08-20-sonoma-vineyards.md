@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-20T08:25:56.702Z'
+datePublished: '2016-08-20T08:38:51.377Z'
+sourcePath: _posts/2016-08-20-sonoma-vineyards.md
 author: []
 via: {}
-dateModified: '2016-08-20T08:25:41.441Z'
+dateModified: '2016-08-20T08:38:50.887Z'
 title: Sonoma Vineyards
 publisher: {}
-description: 'The hills at Dutcher Crossing Winery on a beautiful June day. Geyserville, CA '
+description: 'The hills at Dutcher Crossing Winery on a beautiful June day. Geyserville, CA'
 starred: false
-sourcePath: _posts/2016-08-20-sonoma-vineyards.md
 inFeed: true
 hasPage: true
 inNav: false
