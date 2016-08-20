@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-20T00:07:21.075Z'
+datePublished: '2016-08-20T00:21:27.596Z'
 sourcePath: _posts/2016-08-15-last-bit-of-sunlight.md
 author: []
 via: {}
-dateModified: '2016-08-20T00:07:20.696Z'
+dateModified: '2016-08-20T00:21:27.130Z'
 title: Last Bit of Sunlight
 publisher: {}
 description: 'Where the Russian River meets the Pacific Ocean. Jenner, CA'
