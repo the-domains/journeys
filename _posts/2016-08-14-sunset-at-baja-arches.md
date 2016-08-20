@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-15T00:09:27.907Z'
+datePublished: '2016-08-20T00:21:50.302Z'
 sourcePath: _posts/2016-08-14-sunset-at-baja-arches.md
 author: []
 via: {}
-dateModified: '2016-08-15T00:09:26.427Z'
+dateModified: '2016-08-20T00:21:49.618Z'
 title: Sunset at Baja Arches
 publisher: {}
 description: >-
