@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-18T19:19:27.860Z'
+datePublished: '2016-08-20T00:18:37.366Z'
+sourcePath: _posts/2016-08-18-king-of-the-treasure.md
 author: []
 via: {}
-dateModified: '2016-08-18T19:19:19.389Z'
+dateModified: '2016-08-20T00:18:36.863Z'
 title: King of the Treasure
 publisher: {}
 description: 'Like Smaug! Playas del San Antonio del Mar, BC, Mexico'
 starred: false
-sourcePath: _posts/2016-08-18-king-of-the-treasure.md
 inFeed: true
 hasPage: true
 inNav: false
