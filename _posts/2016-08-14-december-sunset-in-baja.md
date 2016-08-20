@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-15T00:10:10.297Z'
+datePublished: '2016-08-20T00:22:18.842Z'
 sourcePath: _posts/2016-08-14-december-sunset-in-baja.md
 author: []
 via: {}
-dateModified: '2016-08-15T00:10:09.619Z'
+dateModified: '2016-08-20T00:22:18.171Z'
 title: December Sunset in Baja
 publisher: {}
 description: >-
