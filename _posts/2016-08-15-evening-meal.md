@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-15T01:28:03.964Z'
+datePublished: '2016-08-20T00:04:03.962Z'
+sourcePath: _posts/2016-08-15-evening-meal.md
 author: []
 via: {}
-dateModified: '2016-08-15T01:27:48.937Z'
+dateModified: '2016-08-20T00:04:02.867Z'
 title: Evening Meal
 publisher: {}
 description: 'A hummingbird visits our feeder. San Antonio del Mar, BC, Mexico'
 starred: false
-sourcePath: _posts/2016-08-15-evening-meal.md
 inFeed: true
 hasPage: true
 inNav: false
