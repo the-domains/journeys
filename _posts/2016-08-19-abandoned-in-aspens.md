@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-19T21:52:18.645Z'
+datePublished: '2016-08-20T00:06:48.151Z'
+sourcePath: _posts/2016-08-19-abandoned-in-aspens.md
 author: []
 via: {}
-dateModified: '2016-08-19T21:52:12.064Z'
+dateModified: '2016-08-20T00:06:47.676Z'
 title: Abandoned in Aspens
 publisher: {}
 description: 'Abandoned structure left to decay among the Aspens. Flagstaff, AZ'
 starred: false
-sourcePath: _posts/2016-08-19-abandoned-in-aspens.md
 inFeed: true
 hasPage: true
 inNav: false
