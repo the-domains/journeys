@@ -1,4 +1,3 @@
-layout_spectrum: 0.25617120671086013
 typography_spectrum: 0.734318281058222
 color:
   brandStrength: 0.8004657444544137
@@ -11,6 +10,10 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
+layout_spectrum: 0.25617120671086013
+author:
+  name: Kathey Fatica
+  email: katydid1@mac.com
 name: Journeys
 title: 'Earth, Sea, Humanity'
 description: A World of Inspiration
