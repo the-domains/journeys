@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-18T23:06:51.502Z'
+datePublished: '2016-08-20T00:10:57.265Z'
+sourcePath: _posts/2016-08-18-the-shoeshine.md
 author: []
 via: {}
-dateModified: '2016-08-18T23:06:40.913Z'
+dateModified: '2016-08-20T00:10:56.597Z'
 title: The Shoeshine
 publisher: {}
 description: >-
   Somewhere between Cienfueges and Trinidad I found this man doing honest work.
   Cuba
 starred: false
-sourcePath: _posts/2016-08-18-the-shoeshine.md
 inFeed: true
 hasPage: true
 inNav: false
